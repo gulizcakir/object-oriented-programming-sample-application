@@ -1,0 +1,20 @@
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\bin\Debug\BIL-201 Odev.exe.config
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\bin\Debug\BIL-201 Odev.exe
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\bin\Debug\BIL-201 Odev.pdb
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.AssemblyReference.cache
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL_201_Odev.Form1.resources
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL_201_Odev.Properties.Resources.resources
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.GenerateResource.cache
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.CoreCompileInputs.cache
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL-201 Odev.exe
+C:\Users\guliz\source\repos\BIL-201 Odev\BIL-201 Odev\obj\Debug\BIL-201 Odev.pdb
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\bin\Debug\BIL-201 Odev.exe.config
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\bin\Debug\BIL-201 Odev.exe
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\bin\Debug\BIL-201 Odev.pdb
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.AssemblyReference.cache
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL_201_Odev.Form1.resources
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL_201_Odev.Properties.Resources.resources
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.GenerateResource.cache
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL-201 Odev.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL-201 Odev.exe
+C:\Users\guliz\Desktop\BIL-201 Odev - Kopya\BIL-201 Odev\obj\Debug\BIL-201 Odev.pdb
